@@ -1,0 +1,11 @@
+.heading {
+  margin: 0px;
+  padding: 5px 10px;
+  background-color: #000;
+  color:#fff;
+}
+
+.heading > h2 {
+  padding: 20px;
+  margin: 0;
+}
